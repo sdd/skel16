@@ -1,4 +1,4 @@
-# Client design decisions
+# Client
 
 ## Overview
 

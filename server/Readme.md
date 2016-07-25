@@ -1,4 +1,4 @@
-# Server Design Decisions
+# Server
 
 
 ## Startup and Transpilation
