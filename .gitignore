@@ -1,0 +1,10 @@
+client/node_modules
+client/dist/*
+server/dist/index.js
+server/dist/index.js.map
+client/npm-debug.log
+server/node_modules
+server/npm-debug.log
+server/.env
+.idea
+
