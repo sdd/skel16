@@ -71,7 +71,7 @@ be coerced to 500.)
 * unit: uses mocha to run the server unit tests (along side each file), and the
 	server integration tests (in /server/test)
 * test: runs lint and then unit scripts
-* test:watch: runs unit script in watch mode
+* test:&zwnj;watch: runs unit script in watch mode
 * dev: starts the server using babel-watch, so that any file changes in the source
     trigger a restart
 * build: transpiles the source into a single file, saved as /server/dist/index.js
