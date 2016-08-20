@@ -1,8 +1,6 @@
 {
     "presets": [ "es2015", "stage-0", "react" ],
     "plugins": [
-        "transform-object-rest-spread",
-        "syntax-async-functions",
-        "transform-async-to-generator"
+        "transform-react-jsx-self"
     ]
 }

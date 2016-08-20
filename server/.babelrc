@@ -1,9 +1,7 @@
 {
     "presets": [ "node6" ],
     "plugins": [
-        "syntax-async-functions",
         "transform-async-to-generator",
-        "syntax-object-rest-spread",
         "transform-object-rest-spread"
     ]
 }
